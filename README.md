@@ -2,8 +2,7 @@
 # Spotify clone
 
 Created basic music clone with HTML,CSS,JS
-## Screenshots
+#output
 
-![App Screenshot](https://drive.google.com/file/d/1akAjQzPxGdGcX5DtgXTMzk8QFm2Hwi4B/view?usp=sharing)
-
+![Screenshot (54)](https://user-images.githubusercontent.com/85554557/191725690-15e0c465-9182-4d62-996c-a129e993d9e3.png)
 
